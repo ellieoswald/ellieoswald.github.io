@@ -8,13 +8,14 @@ p {
 
 #profile-pic {
            float: left;
-           margin-right: 200 px;
-           margin-bottom:6 px;
+           margin-right: 200px;
+           margin-bottom:6px;
         }
 
 #uri {
-        margin-right: 200 px;
-        margin-bottom:6 px;
+        margin-left: 20px;   
+        margin-right: 200px;
+        margin-bottom:6px;
      }
 
 #states {
