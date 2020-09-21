@@ -6,7 +6,7 @@ p {
      font: 20px Verdana, Geneva, sans-serif;
   }
 
-#states {
+#profile-pic {
            float: left;
            margin-right: 200 px;
            margin-bottom:6 px;
@@ -17,6 +17,6 @@ p {
         margin-bottom:6 px;
      }
 
-#profile-pic {
-                float: right;
-             }
+#states {
+           float: right;
+        }
