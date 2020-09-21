@@ -6,3 +6,17 @@ p {
      font: 20px Verdana, Geneva, sans-serif;
   }
 
+#states {
+           float: left;
+           margin-right: 20 px;
+           margin-bottom:6 px;
+        }
+
+#uri {
+        margin-right: 20 px;
+        margin-bottom:6 px;
+     }
+
+#profile-pic {
+
+             }
