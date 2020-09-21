@@ -20,3 +20,7 @@ p {
 #states {
            float: right;
         }
+
+#about {
+         width: 50%;
+}
