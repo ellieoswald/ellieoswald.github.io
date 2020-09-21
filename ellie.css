@@ -26,5 +26,17 @@ p {
         }
 
 #about {
-         width: 30%;
-}
+         width: 50%;
+       }
+
+#index {
+         width: 50%;
+       }
+
+#javascript {
+              width: 50%;
+            }
+
+#apps {
+        width: 50%;
+      }
