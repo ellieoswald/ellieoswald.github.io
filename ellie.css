@@ -1,27 +1,30 @@
 h1 {
-     font: 45px Verdana, Geneva, sans-serif;
+     font: 45px Georgia, serif;
    }
 
 p {
-     font: 20px Verdana, Geneva, sans-serif;
+     font: 20px Georgia, serif;
   }
 
 #profile-pic {
            float: left;
-           margin-right: 200px;
+           margin-right: 20px;
            margin-bottom:6px;
         }
 
 #uri {
         margin-left: 20px;   
-        margin-right: 200px;
-        margin-bottom:6px;
+        margin-right: 20px;
+        margin-bottom: 6px;
      }
 
 #states {
            float: right;
+           margin-left: 20px;
+           margin-right: 20px;
+           margin-bottom: 6px;
         }
 
 #about {
-         width: 50%;
+         width: 30%;
 }
