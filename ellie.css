@@ -59,3 +59,21 @@ p {
            margin-right: 20px;
            margin-bottom: 6px;
         }
+#decision {
+           float: left;
+           margin-right: 20px;
+           margin-bottom:6px;
+        }
+
+#follow {
+        margin-left: 20px;   
+        margin-right: 20px;
+        margin-bottom: 6px;
+     }
+
+#multiplication {
+           float: right;
+           margin-left: 20px;
+           margin-right: 20px;
+           margin-bottom: 6px;
+        }
