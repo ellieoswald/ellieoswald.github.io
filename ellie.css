@@ -96,3 +96,22 @@ p {
            margin-right: 20px;
            margin-bottom: 6px;
         }
+
+#education {
+           float: left;
+           margin-right: 20px;
+           margin-bottom:6px;
+        }
+
+#frogger {
+        margin-left: 20px;   
+        margin-right: 20px;
+        margin-bottom: 6px;
+     }
+
+#memory {
+           float: right;
+           margin-left: 20px;
+           margin-right: 20px;
+           margin-bottom: 6px;
+        }
